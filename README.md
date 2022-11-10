@@ -24,4 +24,5 @@ os outros são de imersões que faço para me aperfeiçoar, projetos pessoais ou
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ricardoadley&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=00000000&currStreakNum=129018&ring=01A244&border=DD272700)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoadley&layout=compact&bg_color=00000000&title_color=129018&text_color=ffffff&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoadley&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&title_color=129018&icon_color=FBA13B)
 
